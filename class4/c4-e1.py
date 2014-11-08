@@ -21,7 +21,6 @@
 
 status = "invalid"
 valid_ip = False
-arg_missing = "Please provide an argument - %s <ip_address>"
 statement = "IP address: %s is %s"
 
 # Assume valid_ip is always false until user enters a valid IP address
